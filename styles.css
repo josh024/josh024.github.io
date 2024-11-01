@@ -62,6 +62,9 @@ a { /* change the appearance of ALL links */
     margin: auto;
     line-height: 125%;
     }
+body {
+    text-align: center;
+    }
 .contact p {
     text-align: center;
     color: greenyellow;
