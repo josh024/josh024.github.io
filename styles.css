@@ -1,17 +1,17 @@
 body {
-    background: #6835e0;
-    color: gold;
+    background: #9400c1;
+    color: #ffdd96;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    color: gold; 
-    background-color: darkviolet;
+    color: #ffdd96; 
+    background-color: 9400c1;
     text-align: center;
 }
 .about {
     text-align: right;
     width: 100%;
-    color: yellowgreen;
+    color: #ffffff;
 }
 
 .projects {
@@ -22,14 +22,14 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: darkviolet;
+    background: #ff0090;
     border-radius: 25%;
 }
 
 .project img{
     width: 300px;
     margin: 10px;
-    border: 2px solid purple; /* choose a color */
+    border: 2px solid #ff0090; /* choose a color */
     display: block;
     margin: auto;
     }
@@ -37,7 +37,7 @@ h1 {
 a { /* change the appearance of ALL links */
     text-decoration: none;
     text-align: center;
-    color: yellow;
+    color: greenyellow;
     }
 .project p { /* change the appearance of paragraph tags inside .project divs */
     text-align: center;
@@ -54,7 +54,7 @@ a { /* change the appearance of ALL links */
     width: 200px;
     height: 200px;
     border-radius: 25%;
-    border: 2px solid rgb(126, 14, 201);
+    border: 2px solid #9400c1;
     }
 .about p {
     width:50%;
@@ -67,8 +67,8 @@ body {
     }
 .contact p {
     text-align: center;
-    color: greenyellow;
+    color: #ffdd96;
     }
 .skills p {
-    color: greenyellow;
+    color: #ffdd96;
     }
