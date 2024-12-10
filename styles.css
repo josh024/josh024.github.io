@@ -22,7 +22,7 @@ h1 {
     width: 20%;
     margin: 20px;
     padding: 20px 10px;
-    background: #ff0090;
+    background: #9b0259;
     border-radius: 25%;
     align-items: center;
 }
@@ -30,7 +30,6 @@ h1 {
 .project img{
     width: 300px;
     margin: 10px;
-    border: 2px solid #ff0090; /* choose a color */
     display: block;
     margin: auto;
     }
@@ -38,7 +37,7 @@ h1 {
 a { /* change the appearance of ALL links */
     text-decoration: none;
     text-align: center;
-    color: greenyellow;
+    color: rgb(131, 209, 15);
     }
 .project p { /* change the appearance of paragraph tags inside .project divs */
     text-align: center;
